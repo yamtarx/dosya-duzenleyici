@@ -1,0 +1,176 @@
+{
+  "izlenen_klasorler": [
+    "$XDG_DOWNLOAD"
+  ],
+  "tarama_araligi_saniye": 3,
+  "sabit_kalma_suresi_saniye": 5,
+  "baslangicta_mevcut_dosyalari_duzenle": false,
+  "masaustu_bildirimi": true,
+  "gizli_dosyalari_atla": true,
+  "eslesmeyen_dosyalar_klasoru": null,
+  "kurallar": [
+    {
+      "ad": "Resimler",
+      "hedef": "~/Resimler/İndirilenler",
+      "uzantilar": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "webp",
+        "bmp",
+        "svg",
+        "tiff",
+        "tif",
+        "ico",
+        "heic",
+        "avif",
+        "raw"
+      ]
+    },
+    {
+      "ad": "Videolar",
+      "hedef": "~/Videolar/İndirilenler",
+      "uzantilar": [
+        "mp4",
+        "mkv",
+        "avi",
+        "mov",
+        "wmv",
+        "flv",
+        "webm",
+        "m4v",
+        "mpeg",
+        "mpg",
+        "3gp"
+      ]
+    },
+    {
+      "ad": "Müzik",
+      "hedef": "~/Müzik/İndirilenler",
+      "uzantilar": [
+        "mp3",
+        "wav",
+        "flac",
+        "aac",
+        "ogg",
+        "m4a",
+        "wma",
+        "opus"
+      ]
+    },
+    {
+      "ad": "PDF",
+      "hedef": "~/Belgeler/PDF",
+      "uzantilar": [
+        "pdf"
+      ]
+    },
+    {
+      "ad": "Ofis belgeleri",
+      "hedef": "~/Belgeler/Ofis",
+      "uzantilar": [
+        "doc",
+        "docx",
+        "odt",
+        "rtf",
+        "xls",
+        "xlsx",
+        "ods",
+        "csv",
+        "ppt",
+        "pptx",
+        "odp"
+      ]
+    },
+    {
+      "ad": "Metin / e-kitap",
+      "hedef": "~/Belgeler/Metin",
+      "uzantilar": [
+        "txt",
+        "md",
+        "epub",
+        "mobi"
+      ]
+    },
+    {
+      "ad": "Arşivler",
+      "hedef": "~/İndirilenler/Arşivler",
+      "uzantilar": [
+        "zip",
+        "rar",
+        "7z",
+        "tar",
+        "tar.gz",
+        "tgz",
+        "tar.xz",
+        "tar.bz2",
+        "gz",
+        "xz",
+        "bz2"
+      ]
+    },
+    {
+      "ad": "Programlar",
+      "hedef": "~/İndirilenler/Programlar",
+      "uzantilar": [
+        "deb",
+        "rpm",
+        "appimage",
+        "flatpakref",
+        "run",
+        "exe",
+        "msi",
+        "sh"
+      ]
+    },
+    {
+      "ad": "Disk kalıpları",
+      "hedef": "~/İndirilenler/Disk Kalıpları",
+      "uzantilar": [
+        "iso",
+        "img"
+      ]
+    },
+    {
+      "ad": "Kod",
+      "hedef": "~/İndirilenler/Kod",
+      "uzantilar": [
+        "py",
+        "js",
+        "ts",
+        "html",
+        "css",
+        "json",
+        "xml",
+        "yaml",
+        "yml",
+        "java",
+        "c",
+        "cpp",
+        "h",
+        "go",
+        "rs",
+        "pine",
+        "sql"
+      ]
+    },
+    {
+      "ad": "Torrent",
+      "hedef": "~/İndirilenler/Torrent",
+      "uzantilar": [
+        "torrent"
+      ]
+    },
+    {
+      "ad": "Yazı tipleri",
+      "hedef": "~/İndirilenler/Yazı Tipleri",
+      "uzantilar": [
+        "ttf",
+        "otf",
+        "woff",
+        "woff2"
+      ]
+    }
+  ]
+}
